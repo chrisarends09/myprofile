@@ -1,0 +1,4 @@
+{{ template "daily-table" .Weathers }}
+
+{{ formatTime .UpdatedAt }}
+
